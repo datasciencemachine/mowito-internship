@@ -2,5 +2,4 @@ opencv-python
 numpy
 glob2
 random2
-os-sys
 matplotlib
