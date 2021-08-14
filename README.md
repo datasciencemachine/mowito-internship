@@ -1,9 +1,9 @@
-# mobito-internship
+# GETTING STARTED
 - Clone and cd into AI-Proctor repository.
 ```shell
-git clone https://github.com/Kartikaggarwal98/AI-Proctor.git
+git clone https://github.com/datasciencemachine/mowito-internship.git
 
-cd AI-Proctor
+cd mowito-internship
 ```
 
 - Donwload the yolov3_training_last.weights file from this [link](https://drive.google.com/file/d/1xRZOxRO8Fjr2h6MyXIPTpGTHj_KbZW2l/view?usp=sharing) and add it to the same directory as the .ipynb files
