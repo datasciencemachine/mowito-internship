@@ -1,6 +1,11 @@
 # mobito-internship
+```shell
+git clone https://github.com/Kartikaggarwal98/AI-Proctor.git
 
-Donwload the yolov3_training_last.weights file from this [link](https://drive.google.com/file/d/1xRZOxRO8Fjr2h6MyXIPTpGTHj_KbZW2l/view?usp=sharing) and add it to the same directory as the .ipynb files
+cd AI-Proctor
+```
+
+- Donwload the yolov3_training_last.weights file from this [link](https://drive.google.com/file/d/1xRZOxRO8Fjr2h6MyXIPTpGTHj_KbZW2l/view?usp=sharing) and add it to the same directory as the .ipynb files
 
 **Note the wieghts file and the expert model file should be in the same directory**
 
