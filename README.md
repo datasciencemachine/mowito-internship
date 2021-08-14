@@ -1,4 +1,5 @@
 # mobito-internship
+- Clone and cd into AI-Proctor repository.
 ```shell
 git clone https://github.com/Kartikaggarwal98/AI-Proctor.git
 
